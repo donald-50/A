@@ -2,6 +2,7 @@
   "name": "A",
   "version": "1.0.0",
   "description": "",
+  "registry": "jspm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +20,8 @@
   "homepage": "https://github.com/donald-50/A#readme",
   "jspm": {
     "dependencies": {
-      "B": "github:donald-50/B@1.0.0",
-      "C": "github:donald-50/C@1.0.0"
+      "B": "github:donald-50/B@1.0.1",
+      "C": "github:donald-50/C@1.0.1"
     },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
