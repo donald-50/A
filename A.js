@@ -1,7 +1,7 @@
 import B from 'B';
 import C from 'C';
 
-const packageId = 'A 1.0.0';
+const packageId = 'A 2.0.0';
 export default packageId;
 
 console.log(`${packageId}: Loaded.`);
